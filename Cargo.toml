@@ -1,0 +1,8 @@
+[package]
+authors = ["James Waples <james@cambridge-intelligence.com>"]
+name = "gmlpa-rs"
+version = "0.1.0"
+
+[dependencies.nom]
+version = "^3.2"
+features = ["verbose-errors"]
